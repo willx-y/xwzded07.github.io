@@ -4,10 +4,10 @@
     <title>willx的博客</title>
     <description>随手记录自己的经历想法和心得。
 </description>
-    <link>http://yourdomain.com//</link>
-    <atom:link href="http://yourdomain.com//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 14 Jan 2015 16:24:20 +0800</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2015 16:24:20 +0800</lastBuildDate>
+    <link>//</link>
+    <atom:link href="//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Jan 2015 16:36:03 +0800</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2015 16:36:03 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -90,8 +90,8 @@ Soylent 的拥护者大都有种 Lifehacker 的范儿，在他们眼里，吃饭
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 14 Jan 2015 21:05:57 +0800</pubDate>
-        <link>http://yourdomain.com//jekyll/update/2015/01/14/conversation_with_yuan.html</link>
-        <guid isPermaLink="true">http://yourdomain.com//jekyll/update/2015/01/14/conversation_with_yuan.html</guid>
+        <link>//jekyll/update/2015/01/14/conversation_with_yuan.html</link>
+        <guid isPermaLink="true">//jekyll/update/2015/01/14/conversation_with_yuan.html</guid>
         
         
         <category>jekyll</category>
