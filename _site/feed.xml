@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>willx的博客</title>
+    <description>随手记录自己的经历想法和心得。
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 14 Jan 2015 13:35:42 +0800</pubDate>
+    <lastBuildDate>Wed, 14 Jan 2015 13:35:42 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>和朋友聊营养学总结</title>
+        <description>&lt;h2 id=&quot;section&quot;&gt;营养学背景知识&lt;/h2&gt;
+&lt;p&gt;营养学可以分为大众营养学和临床营养学。
+### 大众营养学
+  在针对大众人群的统计数据基础上给出了一般性结论，比如不同人群对营养素的适宜摄入量、常见饮食搭配等一些指南和建议。大众营养学结论的特点：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;统计数据只能针对有一定规模的群体，结果是统计（平均）值，而个体实际各有差异。&lt;/li&gt;
+  &lt;li&gt;群体的划分指标不够细化，可能就是性别、年龄、BMI、吸烟饮酒习惯之类，导致难以进一步做个性化建议。&lt;/li&gt;
+  &lt;li&gt;饮食对健康人群的影响不够显著，通过长时间、大样本的随访才能发现显著差异，最后得到的健康饮食模式却基本都类似。 &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;临床营养学&lt;/h3&gt;
+&lt;p&gt;临床营养学主要针对肥胖、高血压、糖尿病等对饮食敏感的病人，有较为完善的统计数据和模型，可以根据显著性差异确定饮食模式。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;临床营养学的模型拟合&lt;/h3&gt;
+&lt;p&gt;拟合好坏是看采用的模型或者数据分布是否符合假设，显著性差异指的时不同群体间的差异。差异显著了就认为某种饮食或者模式更合理。&lt;/p&gt;
+
+&lt;h2 id=&quot;section-3&quot;&gt;伊人理念&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;能量、各种食物比例合理就好，开发几种美味健康餐可能比做营养成分的混搭更有意义。&lt;/li&gt;
+  &lt;li&gt;饮食习惯难以更改，不好吃的东西没人愿意吃，所以色香味等外在的东西也很重要。&lt;/li&gt;
+  &lt;li&gt;由于前述大众营养学的特点，太细的个性化其实难以实现。&lt;/li&gt;
+  &lt;li&gt;完整食物优于加工食物：即使有效成分相同，人体对食物的吸收还是不同的。加工食物乃至粉末虽然可以简化胃部的吸收过程，但是会加大胰腺、肝脏等器官的负担，甚至造成类似高剂量中毒的后果。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;对此有不同观点，1）可以通过各种手段减缓释放 2）人体有超强的适应能力，即使在营养十分匮乏的情况下也保持基本健康，那么在已知营养成分合理搭配的情况下，为何不能做得更健康呢？
+        当然这也存在疑点：比如 1）日常食物中是否可能存在未知的、但人体同样需要的东西呢？有没有比较极端的例子可以证明或者反证这一点？ 2）从专业角度看，加工食物的对身体的其他坏处？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;整体健康的生活方式比单一强调饮食更有意义。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;绝对同意！！！不过能优化一点是一点，健康生活方式的养成应该从任何可能的角度去推进。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;真正个性化的饮食是中医的食疗&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;中医的食疗应该也算是统计或者经验科学吧，只是它是在时间维度上的积累，而不像现代科学是直接在样本规模的维度进行积累。那么这样得出的结论和现代营养学相比如何？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;业界&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;国内很多人在做健康快餐，上海有，可以看看。&lt;/li&gt;
+  &lt;li&gt;美国很多做能量饼干，营养比较齐全，而且搭配了坚果谷物，但也很少有人将其作为主食。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2015 21:05:57 +0800</pubDate>
+        <link>http://yourdomain.com/jekyll/update/2015/01/14/conversation_with_yuan.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/14/conversation_with_yuan.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
